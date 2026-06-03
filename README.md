@@ -19,13 +19,7 @@ Built on the [lucide](https://lucide.dev) bookmark outline, animated procedurall
 
 ## Install
 
-From the [21st.dev](https://21st.dev) registry (one command):
-
-```bash
-npx @21st-dev/registry add @serafimcloud/flag-wave-bookmark
-```
-
-Or just copy the single file - [`src/components/bookmark.tsx`](src/components/bookmark.tsx) - into your project. No CSS, no config. (React 18+.)
+Copy the single file - [`src/components/bookmark.tsx`](src/components/bookmark.tsx) - into your project. No CSS, no config. (React 18+.)
 
 ## Usage
 
