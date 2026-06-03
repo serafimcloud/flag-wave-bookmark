@@ -1,0 +1,25 @@
+{
+  "name": "flag-wave-bookmark",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A React bookmark icon that ripples like a flag in the wind - a procedural sine-wave on the SVG path, eased in on hover and settling back on leave.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "record": "node scripts/record-demo.mjs"
+  },
+  "dependencies": {
+    "next": "^15.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.0.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.6.0"
+  }
+}
